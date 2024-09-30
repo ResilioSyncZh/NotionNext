@@ -15,12 +15,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享你的福利吧',
-  HEO_HERO_TITLE_2: '666',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_1: '男性进化手册',
+  HEO_HERO_TITLE_2: '分享你的福利爸',
+  HEO_HERO_TITLE_3: 'Fuliba.Pro',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '独家精品课程',
-  HEO_HERO_TITLE_LINK: 'https://www.azfuli.pro/article/tiaojiao',
+  HEO_HERO_TITLE_5: '独家绝密精品课程',
+  HEO_HERO_TITLE_LINK: 'https://www.fuliba.pro/article/tiaojiao',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -112,10 +112,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的电报群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入电报群',
-  HEO_SOCIAL_CARD_URL: 'https://t.me/azfulipro1',
+  HEO_SOCIAL_CARD_TITLE_1: '交流群',
+  HEO_SOCIAL_CARD_TITLE_2: '加入电报群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/fulipro1',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
